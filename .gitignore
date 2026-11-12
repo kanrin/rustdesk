@@ -2,6 +2,7 @@
 /target
 .vscode
 .idea
+.venv
 .DS_Store
 libsciter-gtk.so
 src/ui/inline.rs
