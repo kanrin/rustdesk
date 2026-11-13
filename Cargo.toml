@@ -13,7 +13,8 @@ name = "librustdesk"
 crate-type = ["cdylib", "staticlib", "rlib"]
 
 [[bin]]
-name = "naming"
+# name = "naming"
+name = "rustdesk"
 path = "src/naming.rs"
 
 [[bin]]
